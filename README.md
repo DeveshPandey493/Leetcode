@@ -30,6 +30,7 @@
 | [0012-integer-to-roman](https://github.com/DeveshPandey493/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DeveshPandey493/Leetcode/tree/master/0013-roman-to-integer) |
 | [0836-rectangle-overlap](https://github.com/DeveshPandey493/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1154-day-of-the-year](https://github.com/DeveshPandey493/Leetcode/tree/master/1154-day-of-the-year) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0012-integer-to-roman](https://github.com/DeveshPandey493/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DeveshPandey493/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeveshPandey493/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1154-day-of-the-year](https://github.com/DeveshPandey493/Leetcode/tree/master/1154-day-of-the-year) |
 ## Two Pointers
 |  |
 | ------- |
