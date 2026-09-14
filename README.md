@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/DeveshPandey493/Leetcode/tree/master/0035-search-insert-position) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeveshPandey493/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/DeveshPandey493/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [2549-count-distinct-numbers-on-board](https://github.com/DeveshPandey493/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,12 +32,14 @@
 | [0013-roman-to-integer](https://github.com/DeveshPandey493/Leetcode/tree/master/0013-roman-to-integer) |
 | [0836-rectangle-overlap](https://github.com/DeveshPandey493/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1154-day-of-the-year](https://github.com/DeveshPandey493/Leetcode/tree/master/1154-day-of-the-year) |
+| [2549-count-distinct-numbers-on-board](https://github.com/DeveshPandey493/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/DeveshPandey493/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DeveshPandey493/Leetcode/tree/master/0013-roman-to-integer) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeveshPandey493/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2549-count-distinct-numbers-on-board](https://github.com/DeveshPandey493/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 ## String
 |  |
 | ------- |
@@ -75,4 +78,8 @@
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeveshPandey493/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+## Simulation
+|  |
+| ------- |
+| [2549-count-distinct-numbers-on-board](https://github.com/DeveshPandey493/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 <!---LeetCode Topics End-->
