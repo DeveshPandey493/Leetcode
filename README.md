@@ -33,6 +33,7 @@
 | [0836-rectangle-overlap](https://github.com/DeveshPandey493/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1154-day-of-the-year](https://github.com/DeveshPandey493/Leetcode/tree/master/1154-day-of-the-year) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DeveshPandey493/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/DeveshPandey493/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [2549-count-distinct-numbers-on-board](https://github.com/DeveshPandey493/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/DeveshPandey493/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
