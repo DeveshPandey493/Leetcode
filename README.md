@@ -30,6 +30,7 @@
 | [0009-palindrome-number](https://github.com/DeveshPandey493/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/DeveshPandey493/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DeveshPandey493/Leetcode/tree/master/0013-roman-to-integer) |
+| [0292-nim-game](https://github.com/DeveshPandey493/Leetcode/tree/master/0292-nim-game) |
 | [0836-rectangle-overlap](https://github.com/DeveshPandey493/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1154-day-of-the-year](https://github.com/DeveshPandey493/Leetcode/tree/master/1154-day-of-the-year) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DeveshPandey493/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -88,4 +89,24 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DeveshPandey493/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/DeveshPandey493/Leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/DeveshPandey493/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/DeveshPandey493/Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/DeveshPandey493/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/DeveshPandey493/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
