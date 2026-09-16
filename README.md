@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/DeveshPandey493/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DeveshPandey493/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeveshPandey493/Leetcode/tree/master/0035-search-insert-position) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DeveshPandey493/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeveshPandey493/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/DeveshPandey493/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DeveshPandey493/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -18,6 +19,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/DeveshPandey493/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DeveshPandey493/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeveshPandey493/Leetcode/tree/master/0035-search-insert-position) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DeveshPandey493/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeveshPandey493/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
@@ -81,6 +83,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DeveshPandey493/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeveshPandey493/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Simulation
 |  |
@@ -110,4 +113,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/DeveshPandey493/Leetcode/tree/master/0292-nim-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DeveshPandey493/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DeveshPandey493/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
