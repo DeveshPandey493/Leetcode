@@ -53,6 +53,7 @@
 | [0012-integer-to-roman](https://github.com/DeveshPandey493/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/DeveshPandey493/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeveshPandey493/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/DeveshPandey493/Leetcode/tree/master/0125-valid-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/DeveshPandey493/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [1154-day-of-the-year](https://github.com/DeveshPandey493/Leetcode/tree/master/1154-day-of-the-year) |
 ## Two Pointers
@@ -61,6 +62,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeveshPandey493/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DeveshPandey493/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeveshPandey493/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/DeveshPandey493/Leetcode/tree/master/0125-valid-palindrome) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeveshPandey493/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String Matching
 |  |
