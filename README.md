@@ -14,6 +14,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeveshPandey493/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/DeveshPandey493/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DeveshPandey493/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeveshPandey493/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3925-concatenate-array-with-reverse](https://github.com/DeveshPandey493/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -39,6 +40,7 @@
 | [1154-day-of-the-year](https://github.com/DeveshPandey493/Leetcode/tree/master/1154-day-of-the-year) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DeveshPandey493/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DeveshPandey493/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeveshPandey493/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DeveshPandey493/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Hash Table
 |  |
