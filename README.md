@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/DeveshPandey493/Leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeveshPandey493/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DeveshPandey493/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0877-stone-game](https://github.com/DeveshPandey493/Leetcode/tree/master/0877-stone-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeveshPandey493/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/DeveshPandey493/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DeveshPandey493/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -38,6 +39,7 @@
 | [0013-roman-to-integer](https://github.com/DeveshPandey493/Leetcode/tree/master/0013-roman-to-integer) |
 | [0292-nim-game](https://github.com/DeveshPandey493/Leetcode/tree/master/0292-nim-game) |
 | [0836-rectangle-overlap](https://github.com/DeveshPandey493/Leetcode/tree/master/0836-rectangle-overlap) |
+| [0877-stone-game](https://github.com/DeveshPandey493/Leetcode/tree/master/0877-stone-game) |
 | [1154-day-of-the-year](https://github.com/DeveshPandey493/Leetcode/tree/master/1154-day-of-the-year) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DeveshPandey493/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DeveshPandey493/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -110,10 +112,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/DeveshPandey493/Leetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/DeveshPandey493/Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/DeveshPandey493/Leetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/DeveshPandey493/Leetcode/tree/master/0877-stone-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -134,4 +138,9 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeveshPandey493/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/DeveshPandey493/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/DeveshPandey493/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
