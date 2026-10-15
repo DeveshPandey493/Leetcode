@@ -41,6 +41,7 @@
 | [0836-rectangle-overlap](https://github.com/DeveshPandey493/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/DeveshPandey493/Leetcode/tree/master/0877-stone-game) |
 | [1154-day-of-the-year](https://github.com/DeveshPandey493/Leetcode/tree/master/1154-day-of-the-year) |
+| [2396-strictly-palindromic-number](https://github.com/DeveshPandey493/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DeveshPandey493/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DeveshPandey493/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeveshPandey493/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -69,6 +70,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeveshPandey493/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/DeveshPandey493/Leetcode/tree/master/0125-valid-palindrome) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeveshPandey493/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2396-strictly-palindromic-number](https://github.com/DeveshPandey493/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String Matching
 |  |
 | ------- |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/DeveshPandey493/Leetcode/tree/master/0292-nim-game) |
+| [2396-strictly-palindromic-number](https://github.com/DeveshPandey493/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Minimax
 |  |
 | ------- |
