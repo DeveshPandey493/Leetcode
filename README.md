@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/DeveshPandey493/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeveshPandey493/Leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeveshPandey493/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/DeveshPandey493/Leetcode/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DeveshPandey493/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0877-stone-game](https://github.com/DeveshPandey493/Leetcode/tree/master/0877-stone-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeveshPandey493/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -69,6 +70,7 @@
 | [0027-remove-element](https://github.com/DeveshPandey493/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeveshPandey493/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/DeveshPandey493/Leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/DeveshPandey493/Leetcode/tree/master/0283-move-zeroes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeveshPandey493/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2396-strictly-palindromic-number](https://github.com/DeveshPandey493/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String Matching
