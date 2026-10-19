@@ -15,6 +15,7 @@
 | [0877-stone-game](https://github.com/DeveshPandey493/Leetcode/tree/master/0877-stone-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeveshPandey493/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/DeveshPandey493/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DeveshPandey493/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DeveshPandey493/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DeveshPandey493/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeveshPandey493/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -27,6 +28,7 @@
 | [0035-search-insert-position](https://github.com/DeveshPandey493/Leetcode/tree/master/0035-search-insert-position) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DeveshPandey493/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeveshPandey493/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DeveshPandey493/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DeveshPandey493/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeveshPandey493/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DeveshPandey493/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Simulation
 |  |
 | ------- |
