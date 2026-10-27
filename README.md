@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/DeveshPandey493/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeveshPandey493/Leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DeveshPandey493/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DeveshPandey493/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/DeveshPandey493/Leetcode/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DeveshPandey493/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0877-stone-game](https://github.com/DeveshPandey493/Leetcode/tree/master/0877-stone-game) |
@@ -26,6 +27,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/DeveshPandey493/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DeveshPandey493/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeveshPandey493/Leetcode/tree/master/0035-search-insert-position) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DeveshPandey493/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DeveshPandey493/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeveshPandey493/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DeveshPandey493/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -33,6 +35,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DeveshPandey493/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DeveshPandey493/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
 | ------- |
@@ -141,6 +144,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/DeveshPandey493/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DeveshPandey493/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Dynamic Programming
 |  |
